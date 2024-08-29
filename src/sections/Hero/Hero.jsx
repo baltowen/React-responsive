@@ -1,5 +1,5 @@
 import styles from './HeroStyles.module.css';
-import heroImg from '../../assets/Design uten navn.png';
+import heroImg from '../../assets/hero.png';
 import sun from '../../assets/sun.svg';
 import moon from '../../assets/moon.svg';
 import twitterLight from '../../assets/twitter-light.svg';
@@ -57,7 +57,7 @@ function Hero() {
         </span>
         <p className={styles.description}>
           It was popularised in the 1960s with the release of
-          Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+          Letraset sheets containing Lorem Ipsum passages.
         </p>
         <a href={CV} download>
             <button className='hover'>
