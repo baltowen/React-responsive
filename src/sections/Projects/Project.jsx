@@ -17,22 +17,22 @@ function Projects() {
           p="Korean restaurant"
         />
         <ProjectCard
-          src={freshBurger}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Fresh Burger"
-          p="Hamburger Restaurant"
+          src={Ternuritas}
+          link="#"
+          h3="Ternuritas"
+          p="Baby shop store"
         />
         <ProjectCard
-          src={hipsster}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Hipsster"
-          p="Glasses Shop"
+          src={Stunning Portugal}
+          link="#"
+          h3="Stunning Portugal"
+          p="Culture, Nature and Gastronomy"
         />
         <ProjectCard
-          src={fitLift}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="FitLift"
-          p="Fitness App"
+          src={Weather app}
+          link="#"
+          h3="Forecast"
+          p="My personal forecasat"
         />
       </div>
     </section>
